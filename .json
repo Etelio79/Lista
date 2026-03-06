@@ -1,0 +1,35 @@
+{
+    "descripcion": "Listas IPTV gestionadas remotamente",
+    "listas": [
+        {
+            "id": 1,
+            "nombre": "Replay",
+            "url": "https://iptv-org.github.io/iptv/countries/co.m3u"
+        },
+        {
+            "id": 2,
+            "nombre": "Canales Deportes",
+            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        {
+            "id": 3,
+            "nombre": "Canales Internacionales",
+            "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
+        },
+                {
+            "id": 4,
+            "nombre": "Canales Colombia",
+            "url": "https://iptv-org.github.io/iptv/countries/co.m3u"
+        },
+        {
+            "id": 5,
+            "nombre": "Canales Deportes",
+            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        {
+            "id": 6,
+            "nombre": "Canales Internacionales",
+            "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
+        }
+    ]
+}
