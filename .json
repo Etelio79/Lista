@@ -3,13 +3,13 @@
     "listas": [
         {
             "id": 1,
-            "nombre": "Replay",
+            "nombre": "canales Replay",
             "url": "https://raw.githubusercontent.com/Etelio79/iptv/refs/heads/main/.m3u"
         },
         {
             "id": 2,
-            "nombre": "Canales Deportes",
-            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+            "nombre": "Canales música",
+            "url": "https://m3u.cl/lista/musica.m3u"
         },
         {
             "id": 3,
