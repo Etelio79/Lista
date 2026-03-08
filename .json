@@ -14,7 +14,7 @@
         {
             "id": 3,
             "nombre": "Cine Vip",
-            "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
+            "url": "https://raw.githubusercontent.com/Etelio79/Cine_Vip/refs/heads/main/Cine_Vip.m3u"
         },
                 {
             "id": 4,
