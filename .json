@@ -3,31 +3,41 @@
     "listas": [
         {
             "id": 1,
-            "nombre": "canales Replay",
+            "nombre": "Cinexclusivo",
             "url": "https://raw.githubusercontent.com/Etelio79/iptv/refs/heads/main/.m3u"
         },
         {
             "id": 2,
-            "nombre": "Canales música",
-            "url": "https://m3u.cl/lista/musica.m3u"
+            "nombre": "Cine Retro",
+            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
         },
         {
             "id": 3,
-            "nombre": "Canales Internacionales",
+            "nombre": "Cine Vip",
             "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
         },
                 {
             "id": 4,
-            "nombre": "Canales Colombia",
+            "nombre": "Música",
             "url": "https://iptv-org.github.io/iptv/countries/co.m3u"
         },
         {
             "id": 5,
-            "nombre": "Canales Deportes",
+            "nombre": "Anime",
             "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
         },
         {
             "id": 6,
+            "nombre": "Infantiles",
+            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        {
+            "id": 7,
+            "nombre": "Deportes",
+            "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
+        },
+        {
+            "id": 8,
             "nombre": "Canales Internacionales",
             "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
         }
