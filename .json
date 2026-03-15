@@ -1,45 +1,17 @@
 {
-    "descripcion": "Listas IPTV gestionadas remotamente",
-    "listas": [
-        {
-            "id": 1,
-            "nombre": "Cinexclusivo",
-            "url": "https://raw.githubusercontent.com/Etelio79/Cinexclusivo/refs/heads/main/cinexclusivo.m3u"
-        },
-        {
-            "id": 2,
-            "nombre": "Cine Retro",
-            "url": "https://raw.githubusercontent.com/Etelio79/Cine_Retro/refs/heads/main/Cine_Retro.m3u"
-        },
-        {
-            "id": 3,
-            "nombre": "Cine Vip",
-            "url": "https://raw.githubusercontent.com/Etelio79/Cine_Vip/refs/heads/main/Cine_Vip.m3u"
-        },
-                {
-            "id": 4,
-            "nombre": "Música",
-            "url": "https://iptv-org.github.io/iptv/countries/co.m3u"
-        },
-        {
-            "id": 5,
-            "nombre": "Anime",
-            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
-        },
-        {
-            "id": 6,
-            "nombre": "Infantiles",
-            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
-        },
-        {
-            "id": 7,
-            "nombre": "Deportes",
-            "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
-        },
-        {
-            "id": 8,
-            "nombre": "Canales Internacionales",
-            "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
-        }
-    ]
+    "lista": {
+        "id": 1,
+        "nombre": "Cine Exclusivo",
+        "descripcion": "Canales de cine y series exclusivas",
+        "url_m3u": "https://raw.githubusercontent.com/Etelio79/editor-web/refs/heads/main/canales.m3u",
+        "caracteristicas": [
+            "Cine Acción",
+            "Series Estreno",
+            "Contenido HD",
+            "Sin Publicidad",
+            "Actualizado Diariamente",
+            "Acceso Global"
+        ],
+        "logo_lista": "https://raw.githubusercontent.com/Etelio79/editor-web/refs/heads/main/logo_default.png"
+    }
 }
